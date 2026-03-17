@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
