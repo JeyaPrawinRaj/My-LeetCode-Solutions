@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
