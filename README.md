@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
