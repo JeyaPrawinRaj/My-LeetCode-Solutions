@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
+## Matrix
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
