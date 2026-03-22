@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Sorting
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
