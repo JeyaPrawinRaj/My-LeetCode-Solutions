@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -38,7 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0008-string-to-integer-atoi](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
