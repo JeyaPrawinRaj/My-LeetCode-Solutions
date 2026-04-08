@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Sorting
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -159,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
