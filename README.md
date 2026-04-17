@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Math
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Prefix Sum
