@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 ## Matrix
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
