@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
 |  |
 | ------- |
