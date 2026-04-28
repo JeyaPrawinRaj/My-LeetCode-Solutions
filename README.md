@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
