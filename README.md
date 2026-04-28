@@ -72,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0067-add-binary) |
+| [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
