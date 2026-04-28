@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
