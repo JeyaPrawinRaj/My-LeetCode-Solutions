@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1207-unique-number-of-occurrences](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
