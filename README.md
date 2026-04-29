@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
