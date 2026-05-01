@@ -175,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
