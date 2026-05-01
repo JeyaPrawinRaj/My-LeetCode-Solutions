@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 ## Matrix
 |  |
 | ------- |
