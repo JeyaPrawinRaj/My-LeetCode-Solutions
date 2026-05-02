@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Recursion
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
