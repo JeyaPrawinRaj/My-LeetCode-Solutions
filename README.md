@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union-Find
 |  |
