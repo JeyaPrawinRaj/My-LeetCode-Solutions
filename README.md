@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
