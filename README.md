@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
