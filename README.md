@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
 | ------- |
