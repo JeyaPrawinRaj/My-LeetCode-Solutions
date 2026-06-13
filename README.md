@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
