@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
