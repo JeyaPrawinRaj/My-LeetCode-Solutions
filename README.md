@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
