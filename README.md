@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0735-asteroid-collision](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0766-toeplitz-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0079-word-search) |
+| [0766-toeplitz-matrix](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1861-rotating-the-box](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
