@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
