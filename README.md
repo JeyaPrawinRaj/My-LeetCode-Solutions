@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search Tree
 |  |
