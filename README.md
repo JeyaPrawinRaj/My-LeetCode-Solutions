@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JeyaPrawinRaj/My-LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
